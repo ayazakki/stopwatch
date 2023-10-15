@@ -1,0 +1,21 @@
+.container{
+    width: 295px;
+    height: 121px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: cornflowerblue;
+    font-family: monospace;
+    text-align: center;
+    font-size: 37px;
+}
+button{
+    color: white;
+    font-size: 21px;
+    background-color: dodgerblue;
+    border: 2px solid;
+    border-radius: 11px;
+    cursor: pointer;
+
+}
